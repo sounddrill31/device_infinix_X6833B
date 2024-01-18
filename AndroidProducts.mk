@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_X6833B.mk
+    $(LOCAL_DIR)/derp_X6833B.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_X6833B-user \
-    lineage_X6833B-userdebug \
-    lineage_X6833B-eng
+    derp_X6833B-user \
+    derp_X6833B-userdebug \
+    derp_X6833B-eng
